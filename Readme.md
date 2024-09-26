@@ -1,6 +1,7 @@
 # CarbonOffset Smart Contract
-
+id:0x4ca4a2e032740acb7e171c6cec2ff69cbbcaacfb3506aa1e490fa4c8ed0e69ad
 ## Vision
+![image](https://github.com/user-attachments/assets/7d609947-5d00-4571-9b55-40715b02c076)
 
 The **CarbonOffset** smart contract facilitates the creation of decentralized carbon offset projects. It allows users to invest in these projects and receive tokens in return, encouraging participation in sustainability efforts while promoting transparent and traceable contributions to carbon offset initiatives.
 
